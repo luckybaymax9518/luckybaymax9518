@@ -12,25 +12,6 @@
 - Front-End : React.js, Angular, Vue.js, JavaScript, TypeScript, TailwindCSS, HTML & CSS
 - Back-End: Node.js, Nest.js, Python / Django, PHP(Wordpress, Laravel, Codeigniter)
 
-
-
-## 🔗 Recent Projects
-
-### - https://30mins.com
-Next.js, Node.js & PostgreSQL , AWS
-
-### - https://ternoa.com
-Next.js, Solidity, Git, PostgreSQL
-
-### - https://urentme.com
-React.js, TailwindCSS, Jira, Git, GCP
-### - https://oioni.com
-React.js, Node.js, PostgreSQL,AWS,Linqpay
-### - https://plasma.finance/
-Vue, Tailwind CSS, Git, Trello, Web3
-### - https://www.sotaog.com/
-Built with Angular, Python,TailwinCSS
-
 ## WORK EXPERIENCE
 
 ### - Webpuppies Digital | Full Stack Developer
