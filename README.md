@@ -17,16 +17,20 @@
 ## 🔗 Recent Projects
 
 ### - https://30mins.com
-#### Scheduling site similar to calendly.com
 Next.js, Node.js & PostgreSQL , AWS
 
 ### - https://ternoa.com
-#### Multi-chain NFT network
 Next.js, Solidity, Git, PostgreSQL
 
 ### - https://urentme.com
-#### Vehicle rental platform
 React.js, TailwindCSS, Jira, Git, GCP
+### - https://oioni.com
+React.js, Node.js, PostgreSQL,AWS,Linqpay
+### - https://plasma.finance/
+Vue, Tailwind CSS, Git, Trello, Web3
+### - https://www.sotaog.com/
+Built with Angular, Python,TailwinCSS
+
 ## WORK EXPERIENCE
 
 ### - Webpuppies Digital | Full Stack Developer
