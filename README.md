@@ -1,11 +1,11 @@
 
-# Hi, I'm Michael Jin, ! 👋
+# Hi, I'm Michael Jin !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-## 🚀 About Me
+## 👨🏻‍💻 About Me
 - Versatile Full Stack developer with 6+ years of experience designing, developing, and managing complex e-commerce sites and internal frameworks. 
-- Specializes in React.js, Angular and responsive design.
-- With a passion for both personal growth and for software development, I attended a 1000+ hour coding bootcamp to learn new languages while sharpening existing skills.
+- Specializes in React.js, Angular, Vue.js and responsive design.
+- As a passionate developer with can-do attitude, I'm thrilled to leverage my technical experience to implement client's ideas into reality.
 
 
 ## 🛠 Skills
@@ -51,6 +51,6 @@ Built with Angular, Python,TailwinCSS
 - Remained up-to-date with industry-standard technologies and mentored a team of 15+ junior developers.
 - Learned practical debugging skills by watching senior workers check and polish code to improve the functionality and performance of web products and computer programs.
 - Helped maintain code quality, organization, and automatization for 6+ applications
-## Education
+## 📖 Education
 ### - Singapre Management University (03/2012 - 04/2016)
 - Bachelor of Science (Information Systems Management)
