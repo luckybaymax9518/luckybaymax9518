@@ -11,6 +11,7 @@
 ## 🛠 Skills
 - Front-End : React.js, Angular, Vue.js, JavaScript, TypeScript, TailwindCSS, HTML & CSS
 - Back-End: Node.js, Nest.js, Python / Django, PHP(Wordpress, Laravel, Codeigniter)
+- Blockchain: Solidiy, Solana, Bitcoin, NFT minting
 
 ## WORK EXPERIENCE
 
