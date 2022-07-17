@@ -3,12 +3,12 @@
 
 
 ## 👨🏻‍💻 About Me
-- Versatile Full Stack developer with 6+ years of experience designing, developing, and managing complex e-commerce sites and internal frameworks. 
-- Specializes in React.js, Angular, Vue.js and responsive design.
-- As a passionate developer with can-do attitude, I'm thrilled to leverage my technical experience to implement client's ideas into reality.
+Specializes in modern JavaScript libraries and frameworks like React.js, Angular,Vue.js, and responsive design. Passionate about launching, developing, and maintaining web and mobile projects requiring a broad yet experienced skillset.
+Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management and blockchain technology.
 
-
+I am a Fullstack Web & Blockchain developer with the following technologies:
 ## 🛠 Skills
-- Front-End : React.js, Angular, Vue.js, JavaScript, TypeScript, TailwindCSS, HTML & CSS
-- Back-End: Node.js, Nest.js, Python / Django, PHP(Wordpress, Laravel, Codeigniter)
-- Blockchain: Solidiy, Solana, Web3.js & Ether.js, NFT minting & Marketplace
+• React js / Next js, Angular and Vue.js, JavaScript, TypeScript, jQuery,Sass,Scss for Front End
+• PHP (laravel, Codeigniter, wordpress), Node.js or Python for backend
+• Databases (MySQL, MongoDB, PostgreSQL, Redis)
+• Solidity & web3.js and NFT Marketplace for Blockchain
