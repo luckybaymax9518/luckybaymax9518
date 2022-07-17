@@ -9,7 +9,7 @@
 
 I am a Fullstack Web & Blockchain developer with the following technologies:
 ## 🛠 Skills
-• React js / Next js, Angular and Vue.js, JavaScript, TypeScript, jQuery,Sass,Scss for Front End
-• PHP (laravel, Codeigniter, wordpress), Node.js or Python for backend
-• Databases (MySQL, MongoDB, PostgreSQL, Redis)
-• Solidity & web3.js and NFT Marketplace for Blockchain
+- React js / Next js, Angular and Vue.js, JavaScript, TypeScript, jQuery,Sass,Scss for Front End
+- PHP (laravel, Codeigniter, wordpress), Node.js or Python for backend
+- Databases (MySQL, MongoDB, PostgreSQL, Redis)
+- Solidity & web3.js and NFT Marketplace for Blockchain
