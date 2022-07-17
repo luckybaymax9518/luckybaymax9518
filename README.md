@@ -3,8 +3,9 @@
 
 
 ## 👨🏻‍💻 About Me
-Specializes in modern JavaScript libraries and frameworks like React.js, Angular,Vue.js, and responsive design. Passionate about launching, developing, and maintaining web and mobile projects requiring a broad yet experienced skillset.
-Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management and blockchain technology.
+- Specializes in modern JavaScript libraries and frameworks like React.js, Angular,Vue.js, and responsive design. 
+- Passionate about launching, developing, and maintaining web and mobile projects requiring a broad yet experienced skillset.
+- Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management and blockchain technology.
 
 I am a Fullstack Web & Blockchain developer with the following technologies:
 ## 🛠 Skills
